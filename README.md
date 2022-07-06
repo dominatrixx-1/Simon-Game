@@ -1,5 +1,6 @@
 # Simon-Game
 This is a game that I made when I was learning Javascript. It is like classic game of Simon says. If you don't press exactly the same button as computer you lose. 
+--------------------------------------------
 Link to the game:
 https://fairydevmother.github.io/Simon-Game/
 
